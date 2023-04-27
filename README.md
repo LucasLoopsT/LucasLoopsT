@@ -1,4 +1,5 @@
-<h1 align="center"> Hi guys, I'm Lucas Lopes 👋 </h1>
+<img align="right" height="590em" src="https://gist.github.com/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3.js"/>
+<h1 align="center"> Hi guys, I'm Lucas Lopes 👋
 <br>
 
 ## 💬 About me
@@ -22,19 +23,21 @@
 
 for now these are all the technologies i know/use:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 
 ---
 
-<!-- ## 📫 Contact
+## 📫 Contact
 
-<img height="20" scr="">
+![Instagram](https://img.shields.io/badge/-Instagram-a6053b?style=flat&logo=instagram&logoColor=ff4082)&nbsp;
 <img height="20" scr="">
 <img height="20" scr="">
 
---- -->
+---
 
 🌌 By Lucas Loopst.
