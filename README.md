@@ -15,13 +15,11 @@
 <li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
 <li title="Technology and study platform from Brazil">Rocketseat</li>  
 
-
-
 ---
 
 ## ⚡ Technologies i use
 
-for now these are all the technologies i know/use:
+For now these are all the technologies i know/use:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -29,23 +27,16 @@ for now these are all the technologies i know/use:
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
 ---
 
 ## 📫 Contact
   
+You can found me here:
+  
 <a href="https://www.linkedin.com/in/lucas-lopes-781b39263/" target="_blank">
 <img src="https://img.shields.io/badge/-Linkedin-0864cc?style=flat&logo=linkedin&logoColor=ffffff"/>&nbsp;
 </a> 
-  
-<a href="https://www.instagram.com/lucas_loopst/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-a6053b?style=flat&logo=instagram&logoColor=ff4082"/>&nbsp;
-</a>
 
 <a href="mailto:lucasllopes100@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-cc4336?style=flat&logo=gmail&logoColor=ffffff"/>&nbsp;
 </a>
-
- ---
-
-🌌 By Lucas Loopst.
