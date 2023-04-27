@@ -1,7 +1,7 @@
 <h1 align="center"> Hi guys, I'm Lucas Lopes 👋 </h1>
 <br>
 
-## About me
+## 💬 About me
 
 ⭐ i'm a Front-End Developer in constant learning, <br> 	&nbsp; 	&nbsp; 	&nbsp; coding is one of my favorite things to do ever. 
 <br>
