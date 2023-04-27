@@ -4,7 +4,7 @@
 
 ## 💬 About me
 
-⭐ i'm a Front-End Developer in constant learning, <br> 	&nbsp; 	&nbsp; 	&nbsp; coding is one of my favorite things to do ever. 
+⭐ i'm a Front-End Developer in constant learning, <br> 	&nbsp; 	&nbsp; 	&nbsp; coding is one of my favorite things ever. 
 <br>
 <br>
 <img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> I'm From Brazil - São Paulo.
@@ -33,11 +33,19 @@ for now these are all the technologies i know/use:
 ---
 
 ## 📫 Contact
+  
+<a href="https://www.linkedin.com/in/lucas-lopes-781b39263/" target="_blank">
+<img src="https://img.shields.io/badge/-Linkedin-0864cc?style=flat&logo=linkedin&logoColor=ffffff"/>&nbsp;
+</a> 
+  
+<a href="https://www.instagram.com/lucas_loopst/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-a6053b?style=flat&logo=instagram&logoColor=ff4082"/>&nbsp;
+</a>
 
-![Instagram](https://img.shields.io/badge/-Instagram-a6053b?style=flat&logo=instagram&logoColor=ff4082)&nbsp;
-<img height="20" scr="">
-<img height="20" scr="">
+<a href="mailto:lucasllopes100@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-cc4336?style=flat&logo=gmail&logoColor=ffffff"/>&nbsp;
+</a>
 
----
+ ---
 
 🌌 By Lucas Loopst.
