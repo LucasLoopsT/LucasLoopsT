@@ -29,12 +29,12 @@ for now these are all the technologies i know/use:
 
 ---
 
-## 📫 Contact
+<!-- ## 📫 Contact
 
 <img height="20" scr="">
 <img height="20" scr="">
 <img height="20" scr="">
 
----
+--- -->
 
 🌌 By Lucas Loopst.
