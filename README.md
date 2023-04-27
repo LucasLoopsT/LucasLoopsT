@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.github.com/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3.js"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/97342e5e1fd6198ed052227354a1ad41643236a9/github.svg"/>
 <h1 align="center"> Hi guys, I'm Lucas Lopes 👋
 <br>
 
