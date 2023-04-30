@@ -31,7 +31,7 @@ For now these are all the technologies i know/use:
 
 ## 📫 Contact
   
-You can found me here:
+You can find me here:
   
 <a href="https://www.linkedin.com/in/lucas-lopes-781b39263/" target="_blank">
 <img src="https://img.shields.io/badge/-Linkedin-0864cc?style=flat&logo=linkedin&logoColor=ffffff"/>&nbsp;
