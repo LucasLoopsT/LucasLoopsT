@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ Technologies i use
+## ⚡ Technologies
 
 For now these are all the technologies i know/use:
 
