@@ -26,7 +26,7 @@ For now these are all the technologies i know/use:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=5C2D91)&nbsp;
-![C#](https://img.shields.io/badge/-C%20Shape-05122A?style=flat&logo=csharp&logoColor=792e82)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp&logoColor=792e82)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=7bb73e)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=66dbfb)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=ffeb3b)&nbsp;
