@@ -18,7 +18,7 @@
 <br>
 
 <!--<img align="center" height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/> -->
-<img height="202em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
+<img  height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
 <!--   <a href="https://git.io/streak-stats"><img height="230em" src="https://streak-stats.demolab.com?user=Lucasloopst&theme=transparent&hide_border=" alt="GitHub Streak" /></a> -->
 
 ---
@@ -45,8 +45,6 @@ For now these are all the technologies i know/use:
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=ffeb3b)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fc5f1c)&nbsp;-->
-
-
 
 ---
 
