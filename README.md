@@ -15,13 +15,26 @@
 <li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
 <li title="Technology and study platform from Brazil">Rocketseat</li>  
 
+<br>
+
+<!--<img align="center" height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/> -->
+<img height="202em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
+<!--   <a href="https://git.io/streak-stats"><img height="230em" src="https://streak-stats.demolab.com?user=Lucasloopst&theme=transparent&hide_border=" alt="GitHub Streak" /></a> -->
+
 ---
 
 ## ⚡ Technologies
 
 For now these are all the technologies i know/use:
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
+<!--   <img height="133em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
+<!--   <a href="https://git.io/streak-stats"><img height="230em" src="https://streak-stats.demolab.com?user=Lucasloopst&theme=transparent&hide_border=" alt="GitHub Streak" /></a> -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,nodejs,express)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
+
+
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -31,7 +44,7 @@ For now these are all the technologies i know/use:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=66dbfb)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=ffeb3b)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fc5f1c)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fc5f1c)&nbsp;-->
 
 
 
