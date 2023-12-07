@@ -15,6 +15,8 @@
 <li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
 <li title="Technology and study platform from Brazil">Rocketseat</li>  
 
+<div align="left">
+
 <br>
 <br>
 <br>
@@ -24,6 +26,31 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!--
+
+## 🌟 Soft Skills
+
+- **Comunicação:**
+    <p>
+    Sou capaz de comunicar ideias complexas de forma clara e eficaz,<br>
+    tanto verbalmente quanto por escrito. Isso me permite colaborar<br>
+    de maneira mais eficiente em equipes multidisciplinares.
+    </p>
+- **Trabalho em Equipe:** Tenho habilidades sólidas de trabalho em equipe e valorizo a colaboração. Sempre procuro ouvir as opiniões dos outros e contribuir de maneira positiva para o ambiente de trabalho.
+
+- **Pensamento Criativo:** Procuro abordar problemas com uma perspectiva criativa, buscando soluções inovadoras e pensando fora da caixa para encontrar novos caminhos.
+
+- **Proatividade:** 
+</div>
+
+-->
 
 ---
 
