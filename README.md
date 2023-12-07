@@ -16,23 +16,31 @@
 <li title="Technology and study platform from Brazil">Rocketseat</li>  
 
 <br>
-
-<!--<img align="center" height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/> -->
-<img  height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
-<!--   <a href="https://git.io/streak-stats"><img height="230em" src="https://streak-stats.demolab.com?user=Lucasloopst&theme=transparent&hide_border=" alt="GitHub Streak" /></a> -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
-## ⚡ Technologies
+<div align="center">
+  
+## ⚡ Technologies ⚡
 
-For now these are all the technologies i know/use:
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
+<p>For now these are all the technologies i know/use:</p>
+<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
 <!--   <img height="133em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
 <!--   <a href="https://git.io/streak-stats"><img height="230em" src="https://streak-stats.demolab.com?user=Lucasloopst&theme=transparent&hide_border=" alt="GitHub Streak" /></a> -->
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,nodejs,express)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
 
+</div>
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -45,6 +53,31 @@ For now these are all the technologies i know/use:
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=ffeb3b)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fc5f1c)&nbsp;-->
+
+---
+
+<div align="center">
+
+## 📊 Stats and Activity 📊
+
+<h3>🔥 Streak Stats</h3>
+<p>
+  <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
+    <img height="230em" alt="LucasLoopst's streak" src="https://streak-stats.demolab.com/?user=LucasLoopst&theme=transparent"/>
+  </a>
+</p>
+
+<br>
+
+<h3>💻 GitHub Profile Stats</h3>
+<p>
+  <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
+    <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
+  </a>
+</p>
+
+
+</div>
 
 ---
 
