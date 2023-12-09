@@ -17,7 +17,12 @@
 
 <div align="left">
 
+
+
 <br>
+
+## 🌟 Soft Skills
+
 <br>
 <br>
 <br>
@@ -34,9 +39,6 @@
 <br>
 
 <!--
-
-## 🌟 Soft Skills
-
 - **Comunicação:**
     <p>
     Sou capaz de comunicar ideias complexas de forma clara e eficaz,<br>
