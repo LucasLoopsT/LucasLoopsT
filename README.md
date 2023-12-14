@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=header"/>
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/09b8c80d00855bf2e4965db266ee83d2a4584d06/github.svg"/>
+
 <div align="right">
-<div align="center">
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=35&pause=1000&color=00FFC9&vCenter=true&random=false&width=448&height=55&lines=Hi+guys%2C+I'm+Lucas+Lopes!;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 </div>
-</div>
+
 ## 💬 About me
 
 ⭐ I'm a Web Developer in constant learning, coding is one of my favorite things ever. 
