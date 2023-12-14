@@ -1,6 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=header"/>
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/09b8c80d00855bf2e4965db266ee83d2a4584d06/github.svg"/>
-<h1 align="center"> Hi guys, I'm Lucas Lopes 👋
-<br>
+<div align="center">
+    
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=35&pause=1000&color=00FFC9&vCenter=true&random=false&width=448&height=55&lines=Hi+guys%2C+I'm+Lucas+Lopes!;Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+</div>
 
 ## 💬 About me
 
@@ -14,30 +19,13 @@
 
 <li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
 <li title="Technology and study platform from Brazil">Rocketseat</li>  
-
-<div align="left">
-
-
-
-<br>
-
-## 🌟 Soft Skills
-
 <br>
 <br>
+🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+👥 I have experience developing with co-workers
+...
 <!--
 - **Comunicação:**
     <p>
@@ -68,6 +56,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,nodejs,express)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
+
+[![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 </div>
 
@@ -121,3 +111,5 @@ You can find me here:
 <a href="mailto:lucasllopes100@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-cc4336?style=flat&logo=gmail&logoColor=ffffff"/>&nbsp;
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=footer"/>
