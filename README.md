@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=header"/>
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/09b8c80d00855bf2e4965db266ee83d2a4584d06/github.svg"/>
-
-<div align="left">
+<div align="center">
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=34&pause=2500&color=00FFC9&vCenter=true&random=false&width=446&height=55&lines=Hi+guys%2C+I'm+Lucas+Lopes!;Welcome+to+my+Github!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=45&duration=2500&pause=2500&color=00FFC9&center=true&vCenter=true&random=false&width=580&height=60&lines=Hi+guys%2C+i'm+Lucas+Lopes!;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 </div>
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/09b8c80d00855bf2e4965db266ee83d2a4584d06/github.svg"/>
 
 ## 💬 About me
 
@@ -27,6 +26,16 @@
 <br>
 👥 I have experience developing with co-workers
 ...
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--
 - **Comunicação:**
     <p>
@@ -35,12 +44,6 @@
     de maneira mais eficiente em equipes multidisciplinares.
     </p>
 - **Trabalho em Equipe:** Tenho habilidades sólidas de trabalho em equipe e valorizo a colaboração. Sempre procuro ouvir as opiniões dos outros e contribuir de maneira positiva para o ambiente de trabalho.
-
-- **Pensamento Criativo:** Procuro abordar problemas com uma perspectiva criativa, buscando soluções inovadoras e pensando fora da caixa para encontrar novos caminhos.
-
-- **Proatividade:** 
-</div>
-
 -->
 
 ---
