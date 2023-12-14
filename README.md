@@ -97,7 +97,7 @@
   <tr>
       <td colspan="2">
       
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasLoopsT&bg_color=0d1117&color=ffffff&line=70ffa7&point=2cf271&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LucasLoopsT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasLoopsT&bg_color=0d1117&color=ffffff&line=70ffa7&point=2cf271&area=true&hide_border=true)]()
       
   </tr>
 </table>
@@ -110,13 +110,9 @@
   
 You can find me here:
   
-<a href="https://www.linkedin.com/in/lucas-lopes-781b39263/" target="_blank">
-<img src="https://img.shields.io/badge/-Linkedin-0864cc?style=flat&logo=linkedin&logoColor=ffffff"/>&nbsp;
-</a> 
-
-<a href="mailto:lucasllopes100@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-cc4336?style=flat&logo=gmail&logoColor=ffffff"/>&nbsp;
-</a>
+<a href = "mailto:lucasllopes100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%cc4336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+<a href="https://www.linkedin.com/in/lucas-lopes-781b39263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=footer"/>
