@@ -24,21 +24,15 @@
 🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
 <br>
 <br>
-👥 Have several experience developing with co-workers. I belive that the more dev friends i make, the more incridible things we can do! click here to see projects i did with a team: ...
+👥 Have several experience developing with co-workers. I belive that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: ...
 <br>
 <br>
-💫 Enjoy to do different things and don't stay doing the same thing, challenging goals to exercise my mind that's what i like.
+💫 Enjoy to do creative things and don't stay doing the same, challenging goals to exercise my mind is what i like.
 <br>
 <br>
-<!--
-- **Comunicação:**
-    <p>
-    Sou capaz de comunicar ideias complexas de forma clara e eficaz,<br>
-    tanto verbalmente quanto por escrito. Isso me permite colaborar<br>
-    de maneira mais eficiente em equipes multidisciplinares.
-    </p>
-- **Trabalho em Equipe:** Tenho habilidades sólidas de trabalho em equipe e valorizo a colaboração. Sempre procuro ouvir as opiniões dos outros e contribuir de maneira positiva para o ambiente de trabalho.
--->
+<br>
+<br>
+<br>
 
 ---
 
@@ -48,16 +42,13 @@
 
 <p>For now these are all the technologies i know/use:</p>
 <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
-<!--   <img height="133em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
-<!--   <a href="https://git.io/streak-stats"><img height="230em" src="https://streak-stats.demolab.com?user=Lucasloopst&theme=transparent&hide_border=" alt="GitHub Streak" /></a> -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,nodejs,express)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
-
 <!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
-
 </div>
+<br>
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -81,7 +72,7 @@
 <table>
   <tr>
     <td style="margin-botton: 20px;">
-        <h3 align="center">🔥 Streak Stats</h3>
+        <h4 align="center">🔥 Streak Stats</h4>
         <p>
           <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
             <img height="230em" alt="LucasLoopst's streak" src="https://streak-stats.demolab.com/?user=LucasLoopst&theme=transparent"/>
@@ -89,7 +80,7 @@
         </p>
     </td>
     <td>
-        <h3 align="center">💻 GitHub Profile Stats</h3>
+        <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
           <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
             <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
@@ -106,19 +97,9 @@
 </table>
 </div>
 
-
-
-
-<br>
-
-
-
-
-</div>
-
 ---
 
-## 📫 Contact
+## 📫 Contact 📫
   
 You can find me here:
   
