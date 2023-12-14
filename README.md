@@ -8,38 +8,43 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/09b8c80d00855bf2e4965db266ee83d2a4584d06/github.svg"/>
 
 ## 💬 About me
-
-⭐ I'm a Web Developer in constant learning, coding is one of my favorite things ever. 
-<br>
-<br>
-<img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> From Brazil - São Paulo.
-<br>
-<br>
-📚 Currently studying in:
-
-<li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
-<li title="Technology and study platform from Brazil">Rocketseat</li>  
-<br>
-<br>
-🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
-<br>
-<br>
-👥 Have several experience developing with co-workers. I belive that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: ...
-<br>
-<br>
-💫 Enjoy to do creative things and don't stay doing the same, challenging goals to exercise my mind is what i like.
-<br>
-<br>
+>
+>⭐ I'm a Web Developer in constant learning, coding is one of my favorite things ever. 
+><br>
+><br>
+><img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> From Brazil - São Paulo.
+><br>
+><br>
+>💌 I speak Portuguese, English and Spanish. So we can chat in one of these languages!
+><br>
+><br>
+>📚 Currently studying in:
+>
+><li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
+><li title="Technology and study platform from Brazil">Rocketseat</li>  
+><br>
+><br>
+>🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
+><br>
+><br>
+>​🤝​ Have several experience developing with co-workers. I belive that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: ...
+><br>
+><br>
+>💫 Enjoy to do creative things and don't stay doing the same, challenging goals to exercise my mind is what i like.
+><br>
+><br>
 <br>
 <br>
 <br>
 
 ---
 
-<div align="center">
-  
+<details align="center" open>
+  <summary>
+      
 ## ⚡ Technologies ⚡
 
+  </summary>
 <p>For now these are all the technologies i know/use:</p>
 <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
 
@@ -47,8 +52,8 @@
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
 <!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
-</div>
 <br>
+</details>
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -64,11 +69,12 @@
 
 ---
 
-<div align="center">
-
+<details align="center" open>
+  <summary>
+      
 ## 📊 Stats and Activity 📊
 
-<div>
+  </summary>
 <table>
   <tr>
     <td style="margin-botton: 20px;">
@@ -95,10 +101,11 @@
       
   </tr>
 </table>
-</div>
+</details>
 
 ---
-
+<div align="center">
+    
 ## 📫 Contact 📫
   
 You can find me here:
@@ -110,5 +117,6 @@ You can find me here:
 <a href="mailto:lucasllopes100@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-cc4336?style=flat&logo=gmail&logoColor=ffffff"/>&nbsp;
 </a>
-
+    
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFC9FF&height=120&section=footer"/>
