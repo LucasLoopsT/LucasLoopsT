@@ -4,7 +4,7 @@
 
 <div align="left">
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=35&pause=1000&color=00FFC9&vCenter=true&random=false&width=448&height=55&lines=Hi+guys%2C+I'm+Lucas+Lopes!;Welcome+to+my+Github!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=34&pause=2500&color=00FFC9&vCenter=true&random=false&width=446&height=55&lines=Hi+guys%2C+I'm+Lucas+Lopes!;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 </div>
 
