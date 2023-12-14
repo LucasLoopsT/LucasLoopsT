@@ -24,16 +24,10 @@
 🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
 <br>
 <br>
-👥 I have experience developing with co-workers
-...
+👥 Have several experience developing with co-workers. I belive that the more dev friends i make, the more incridible things we can do! click here to see projects i did with a team: ...
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+💫 Enjoy to do different things and don't stay doing the same thing, challenging goals to exercise my mind that's what i like.
 <br>
 <br>
 <!--
@@ -61,7 +55,7 @@
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
 
-[![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+<!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
 
 </div>
 
@@ -83,21 +77,41 @@
 
 ## 📊 Stats and Activity 📊
 
-<h3>🔥 Streak Stats</h3>
-<p>
-  <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
-    <img height="230em" alt="LucasLoopst's streak" src="https://streak-stats.demolab.com/?user=LucasLoopst&theme=transparent"/>
-  </a>
-</p>
+<div>
+<table>
+  <tr>
+    <td style="margin-botton: 20px;">
+        <h3 align="center">🔥 Streak Stats</h3>
+        <p>
+          <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
+            <img height="230em" alt="LucasLoopst's streak" src="https://streak-stats.demolab.com/?user=LucasLoopst&theme=transparent"/>
+          </a>
+        </p>
+    </td>
+    <td>
+        <h3 align="center">💻 GitHub Profile Stats</h3>
+        <p>
+          <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
+            <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
+          </a>
+        </p>
+    </td>
+  </tr>
+  <tr>
+      <td colspan="2">
+      
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasLoopsT&bg_color=0d1117&color=ffffff&line=70ffa7&point=2cf271&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      
+  </tr>
+</table>
+</div>
+
+
+
 
 <br>
 
-<h3>💻 GitHub Profile Stats</h3>
-<p>
-  <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
-    <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
-  </a>
-</p>
+
 
 
 </div>
