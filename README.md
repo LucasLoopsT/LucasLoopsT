@@ -15,7 +15,7 @@
 ><img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> From Brazil - São Paulo.
 ><br>
 ><br>
->💌 I speak Portuguese, English and Spanish. So we can chat any of these languages!
+>💌 I speak Portuguese, English and Spanish. So we can chat in any of these languages!
 ><br>
 ><br>
 >📚 Currently studying in:
