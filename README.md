@@ -15,7 +15,7 @@
 ><img height="20" src="https://user-images.githubusercontent.com/128094146/234800754-a90b8b9a-e3e8-43c2-9a63-9ebc54621915.png"> From Brazil - São Paulo.
 ><br>
 ><br>
->💌 I speak Portuguese, English and Spanish. So we can chat in one of these languages!
+>💌 I speak Portuguese, English and Spanish. So we can chat any of these languages!
 ><br>
 ><br>
 >📚 Currently studying in:
@@ -27,13 +27,12 @@
 >🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
 ><br>
 ><br>
->​🤝​ Have several experience developing with co-workers. I belive that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: ...
+>​🤝​ Have several experience developing with co-workers. I believe that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: <a href="https://github.com/LucasLoopsT/TeamWork/tree/main" target="_blank">TeamWork Folder</a>
 ><br>
 ><br>
 >💫 Enjoy to do creative things and don't stay doing the same, challenging goals to exercise my mind is what i like.
 ><br>
 ><br>
-<br>
 <br>
 <br>
 
