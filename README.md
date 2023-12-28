@@ -49,7 +49,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,nodejs,express)](https://skillicons.dev)
 
-[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,c,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,py,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
 <!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
 <br>
 </details>
