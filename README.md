@@ -76,14 +76,6 @@
   </summary>
 <table>
   <tr>
-    <td style="margin-botton: 20px;">
-        <h4 align="center">🔥 Streak Stats</h4>
-        <p>
-          <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
-            <img height="230em" alt="LucasLoopst's streak" src="https://streak-stats.demolab.com/?user=LucasLoopst&theme=transparent"/>
-          </a>
-        </p>
-    </td>
     <td>
         <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
