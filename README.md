@@ -74,24 +74,12 @@
 ## 📊 Stats and Activity 📊
 
   </summary>
-<table>
-  <tr>
-    <td>
         <h4 align="center">💻 GitHub Profile Stats</h4>
         <p>
           <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
             <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
           </a>
         </p>
-    </td>
-  </tr>
-  <tr>
-      <td colspan="2">
-      
-[![LucasLoopsT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasLoopsT&bg_color=0d1117&color=ffffff&line=70ffa7&point=2cf271&area=true&hide_border=true)]()
-      
-  </tr>
-</table>
 </details>
 
 ---
