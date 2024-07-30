@@ -5,8 +5,6 @@
 
 </div>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasLoopsT/5a0c8fbe3bfdc768476eeeaf08ab96a3/raw/09b8c80d00855bf2e4965db266ee83d2a4584d06/github.svg"/>
-
 ## 💬 About me
 >
 >⭐ I'm a Web Developer in constant learning, coding is one of my favorite things ever. 
@@ -47,7 +45,7 @@
 <p>For now these are all the technologies i know/use:</p>
 <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,styledcomponents,nodejs,express)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,py,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
 <!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
