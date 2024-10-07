@@ -16,13 +16,7 @@
 >💌 I speak Portuguese, English and Spanish. So we can chat in any of these languages!
 ><br>
 ><br>
->📚 Currently studying in:
->
-><li title="Federal Institute of Education, Science and Technology of São Paulo - College">IFSP Cubatão</li>  
-><li title="Technology and study platform from Brazil">Rocketseat</li>  
-><br>
-><br>
->🔍 A proactive person, always willing to learn and practice new technologies, also working in some awesome projects, which i want to share with you.
+>💻 Check it out my portfolio: <a href="lucasloopst.github.io/Lucas-Webpage/#/" target="_blank">click here!</a>
 ><br>
 ><br>
 >​🤝​ Have several experience developing with co-workers. I believe that the more dev friends i make, the more incridible things we can do! click here to see projects i contributed to as a team: <a href="https://github.com/LucasLoopsT/TeamWork/tree/main" target="_blank">TeamWork Folder</a>
@@ -47,37 +41,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,styledcomponents,nodejs,express)](https://skillicons.dev)
 
-[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,py,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
-<!-- [![My Skills3](https://skillicons.dev/icons?i=md)](https://skillicons.dev) -->
+[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,py,java,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
+
 <br>
-</details>
-
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=5C2D91)&nbsp;
-![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp&logoColor=792e82)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=7bb73e)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=66dbfb)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=ffeb3b)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fc5f1c)&nbsp;-->
-
----
-
-<details align="center" open>
-  <summary>
-      
-## 📊 Stats and Activity 📊
-
-  </summary>
-        <h4 align="center">💻 GitHub Profile Stats</h4>
-        <p>
-          <a href="https://github.com/LucasLoopst/github-readme-streak-stats">
-            <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=lucasloopst&show_icons=true&theme=transparent" alt="Lucas Loopst GitHub stats">
-          </a>
-        </p>
 </details>
 
 ---
