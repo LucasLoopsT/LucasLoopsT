@@ -39,7 +39,7 @@
 <p>For now these are all the technologies i know/use:</p>
 <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasloopst&layout=compact&langs_counts=16&theme=transparent"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,vite,styledcomponents,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,styledcomponents,nodejs,express)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,py,java,cs,visualstudio,vscode,github,git)](https://skillicons.dev)
 
